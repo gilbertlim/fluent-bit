@@ -1,0 +1,11 @@
+{
+  "show": [
+    "/show/getChannels/",
+    "/show/getLikes",
+    "/show/getUserIds/*"
+  ],
+  "delete": [
+    "/delete/Channels",
+    "/delete/Likes"
+  ]
+}
