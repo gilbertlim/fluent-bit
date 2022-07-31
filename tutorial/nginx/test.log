@@ -1,3 +1,2 @@
-test log
-127.0.0.1 - - [30/Jul/2022:16:48:48 +0900] "GET /favicon.ico HTTP/1.1" 404 555 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" "-"
-127.0.0.1 - - [30/Jul/2022:16:48:48 +0900] "GET /favicon.ico HTTP/1.1" 404 555 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" "-"
+- - - [31/Jul/2022:23:14:20.080 +0900] "GET /test123?asdasd HTTP/1.1" 404 555 0.000 localhost 127.0.0.1 /test123
+- - - [31/Jul/2022:23:14:20.080 +0900] "GET /test123?asdasd HTTP/1.1" 404 555 0.000 localhost 127.0.0.1 /test123
